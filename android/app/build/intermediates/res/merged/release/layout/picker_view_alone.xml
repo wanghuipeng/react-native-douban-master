@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:id="@+id/pickerViewAloneLayout"
+    android:layout_height="match_parent">
+
+</LinearLayout><!-- From: file:/D:/ReactNativeProject/react-native-douban-master/node_modules/react-native-picker/android/src/main/res/layout/picker_view_alone.xml --><!-- From: file:/D:/ReactNativeProject/react-native-douban-master/android/app/build/intermediates/exploded-aar/DoubanProject/react-native-picker/unspecified/res/layout/picker_view_alone.xml -->

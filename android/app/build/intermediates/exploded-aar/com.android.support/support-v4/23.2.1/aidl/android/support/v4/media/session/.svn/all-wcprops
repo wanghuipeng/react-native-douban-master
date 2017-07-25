@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/aidl/android/support/v4/media/session
+END
+MediaSessionCompat.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/aidl/android/support/v4/media/session/MediaSessionCompat.aidl
+END
+PlaybackStateCompat.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl
+END
+ParcelableVolumeInfo.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl
+END

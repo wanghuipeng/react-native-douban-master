@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-fe83462a5d206d9870f1dd3ec3f8349b06d7cb1f.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="017cbad0ef8876fc041eb28b642a33c3762fe774">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-5efa811816f8a049bf2a6a0953df136c3451e02e.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\DoubanProject\react-native-image-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1000ff663a0c99ee048062fff415fd8c9b3fd715">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-e7f3985e9fa5af70ff3b275310cd9c09a5b05442.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\DoubanProject\react-native-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed2ddf83e4eb5d24153c18e22f6eb554f7da79f0">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-5a17effeb11e6f0687f90ee5cba7177387e09b52.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.39.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-333726d7624f0baed855298ae1c3aca082e19efc.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-672c51cc37493d2f4d784f58c25365bcde2a525c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-d5dacd838dee6932fa69cd0033c594b1864bb1cd.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bea506ec2a27189b7d3198ea11431304c8f7549">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-57e6115f2c96229a9ac2ee45970f84edd05b6aff.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-bf071434f9472706eebe4fa6123bb2006ae0a889.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0aa38f91d7e6c9d5983d2148741de45b6cc5949b">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-4646dc4ee635ea80a99685bb1c1aef02d3917ab4.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-a59c277bb5e431edd0383e76baab89847928895f.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-bbcc7191139eaf9720143d20ed8600e711428f00.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9bab39d73226491b969ef7ffebeae2e6e525e98f">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-5129666f6df0b3e6cdddcbd6a26a47e84f771e22.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\DoubanProject\react-native-fileupload\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="437d5fffe899d17709f940f7e92aac94c0a4dcc2">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-67ceac79642694330ff1ff0e8f535c96f8312c70.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-df3a7a3d0ccd0f2d8f4d094b7b7b1ed2b3b23874.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-ae7aa6a926c4420ddf74e0c12d53b47a812e8079.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\DoubanProject\react-native-code-push\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ef07f01883f738cfd34f9fc2703cc0a6418ac39">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-c8b2012bc4119d2912b58ebd0b7ac2b628374ca6.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-efd358856f7349d1a9ffd2b176d6d830be5c44c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-a971f67c50848f35eab062a5cec0856f32aa537b.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e818c866cdd1e9b94d54a3ffbd7420dca384746a">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-72959393409d8ef155eb78a6a9299b58be2d8f22.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-20e9bd33d159555981b6bb869d5b17ebab2726b6.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.39.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-d1ea637871dab03d93627dd12a305c6a95edac4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-8c53f11782c30ceeab64a97cd78f9c7aa80afcf8.jar" />
+    </item>
+    <item
+        jar="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="D:\ReactNativeProject\react-native-douban-master\android\app\build\intermediates\pre-dexed\debug\classes-e2d399fd2621d032b427ec4e4c0b8d111cc01d34.jar" />
+    </item>
+
+</items>

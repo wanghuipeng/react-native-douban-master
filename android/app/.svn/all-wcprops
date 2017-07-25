@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app
+END
+BUCK
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/BUCK
+END
+whp-release-key.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/whp-release-key.keystore
+END
+proguard-rules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/proguard-rules.pro
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/project/!svn/ver/27389/yl/wanghuipeng/react-native/react-native-douban-master/android/app/build.gradle
+END
